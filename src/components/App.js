@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, NavLink, Route } from 'react-router-dom';
 import PetsPage from '../containers/PetsPage';
+import PetsNew from '../containers/PetsNew';
 
 const App = (props) => 
   <Router>
